@@ -1,6 +1,6 @@
 {
-  "heartbeat": 0,
-  "sync_interval": 60,
+  "heartbeat": 60,
+  "sync_interval": 0,
   "notice": "Sistema Ativo - Versao 0.15 Oficial",
   "version": {
    "current": 107,
